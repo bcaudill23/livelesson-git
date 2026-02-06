@@ -48,3 +48,4 @@ git@github.com:bcaudill23/livelesson-git-clone.git
 - `git rebase <BRANCH>`: incorporate changes from <BRANCH> into current branch
 
 - branch commit 1
+- branch commit 2
