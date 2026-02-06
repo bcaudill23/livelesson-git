@@ -32,7 +32,6 @@
 	- `git push origin main`
 - `git pull <WHERE> <WHAT>`: pulls the <WHAT> branch in <WHERE> to local computer
 
-## BRANCHES main commit 3
 
 - `git branch <NAME>`: create branch <NAME> where you are (HEAD)
 - `git switch <NAME>`: move to the branch <NAME>
@@ -43,7 +42,6 @@
 - `git merge <BRANCH>`: merge <BRANCH> into your current branch
 
 - `git rebase`: command to change the history of a commit
-git@github.com:bcaudill23/livelesson-git-clone.git
 	- Commits from `git merge` can be automatically combined
 - `git rebase <BRANCH>`: incorporate changes from <BRANCH> into current branch
 	- `git status`: is your friend
@@ -53,3 +51,5 @@ git@github.com:bcaudill23/livelesson-git-clone.git
 
 - main commit 1
 - main commit 2
+- branch commit 1
+- branch commit 2
