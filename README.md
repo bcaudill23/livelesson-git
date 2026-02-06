@@ -32,7 +32,7 @@
 	- `git push origin main`
 - `git pull <WHERE> <WHAT>`: pulls the <WHAT> branch in <WHERE> to local computer
 
-## Branches 
+## BRANCHES 
 
 - `git branch <NAME>`: create branch <NAME> where you are (HEAD)
 - `git switch <NAME>`: move to the branch <NAME>
@@ -49,3 +49,4 @@ git@github.com:bcaudill23/livelesson-git-clone.git
 
 - branch commit 1
 - branch commit 2
+
